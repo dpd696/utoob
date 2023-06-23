@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/utoob/static/css/main.7064deb2.css",
+    "main.js": "/utoob/static/js/main.b99fc957.js",
+    "index.html": "/utoob/index.html",
+    "main.7064deb2.css.map": "/utoob/static/css/main.7064deb2.css.map",
+    "main.b99fc957.js.map": "/utoob/static/js/main.b99fc957.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.b99fc957.js"
+  ]
+}
