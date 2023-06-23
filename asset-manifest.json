@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/utoob/static/css/main.7064deb2.css",
-    "main.js": "/utoob/static/js/main.b99fc957.js",
-    "index.html": "/utoob/index.html",
-    "main.7064deb2.css.map": "/utoob/static/css/main.7064deb2.css.map",
-    "main.b99fc957.js.map": "/utoob/static/js/main.b99fc957.js.map"
+    "main.css": "/roboapp/static/css/main.7064deb2.css",
+    "main.js": "/roboapp/static/js/main.b99fc957.js",
+    "index.html": "/roboapp/index.html",
+    "main.7064deb2.css.map": "/roboapp/static/css/main.7064deb2.css.map",
+    "main.b99fc957.js.map": "/roboapp/static/js/main.b99fc957.js.map"
   },
   "entrypoints": [
     "static/css/main.7064deb2.css",
